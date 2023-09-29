@@ -8,7 +8,7 @@ local button = Instance.new("TextButton")
 button.Name = "RandomChestButton"
 button.Text = "Gem Collector!"
 button.Size = UDim2.new(0, 200, 0, 55)
-button.Position = UDim2.new(0.5, -100, 0.5, 100)
+button.Position = UDim2.new(0.5,550, 0.5, 125)
 button.Parent = gui
 
 -- Function to interact with random chests
